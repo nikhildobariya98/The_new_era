@@ -46,23 +46,4 @@ int main(){
 		emp[i].getEmp();
 		cout << endl;
 	}
-	
-	for(int i = 0; i < 2; i++){
-		cout << "Detail of employee " << i+1 << endl;
-		emp[i].getEmp();
-		cout << endl;
-		
-	}
-	for(int i = 0; i < 2; i++){
-		cout << "Detail of employee " << i+1 << endl;
-		emp[i].getEmp();
-		cout << endl;
-		
-	}
-	
-	for(int i = 0; i < 2; i++){
-		cout << "Detail of employee " << i+1 << endl;
-		emp[i].getEmp();
-		cout << endl;
-	}
 }
