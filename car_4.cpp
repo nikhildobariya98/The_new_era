@@ -40,14 +40,5 @@ int main(){
     	cars[i].getCar();
     	cout << endl;
     }
-     for(int i = 0; i < 4; i++){
-    	cout << "Car detail " << i+1 << ": " << endl;
-    	cars[i].getCar();
-    	cout << endl;
-    }
-     for(int i = 0; i < 4; i++){
-    	cout << "Car detail " << i+1 << ": " << endl;
-    	cars[i].getCar();
-    	cout << endl;
-	}
+
 }
